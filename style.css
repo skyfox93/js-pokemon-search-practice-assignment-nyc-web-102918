@@ -44,3 +44,7 @@ input:focus {
 .flip-image {
   color: #2d72fc;
 }
+
+.pokemon {
+  display:inline-block;
+}
